@@ -40,5 +40,3 @@ Für Updates kannst du das Repository aktualisieren und das Skript erneut ausfü
 Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Siehe LICENSE für Details.
-
-Wenn du möchtest, kann ich dir auch eine Version speziell für dein Projekt anpassen oder zusätzliche Abschnitte hinzufügen!
