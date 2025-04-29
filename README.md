@@ -16,19 +16,18 @@ Internetverbindung
 Nutzung
 
 1. Repository klonen
-
 git clone https://github.com/diggerwf/cowrie-honeypot-installation.git
-Copy
+
+
 2. In das Verzeichnis wechseln
-
 cd cowrie-honeypot-installation
-Copy
+
+
 3. Installationsskript ausführbar machen
-
 chmod +x install_cowrie.sh
-Copy
-4. Skript ausführen
 
+
+4. Skript ausführen
 sudo ./install_cowrie.sh
 Copy
 Das Skript installiert alle notwendigen Komponenten, richtet Cowrie ein und startet es automatisch.
