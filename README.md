@@ -17,7 +17,7 @@ Nutzung
 
 1. Repository klonen
 
-git clone https://github.com/dein-benutzername/cowrie-honeypot-installation.git
+git clone https://github.com/diggerwf/cowrie-honeypot-installation.git
 Copy
 2. In das Verzeichnis wechseln
 
